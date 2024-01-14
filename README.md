@@ -14,3 +14,5 @@ Play, pause, skip forward, skip backward, and control the volume effortlessly.
 Track the elapsed and remaining time for the currently playing song.
 ### Audio Visualizer 
 Dive into the music with a dynamic visualizer that enhances your listening experience.
+![SS Music](https://github.com/THE-ARTI5T/RHYTHMO/assets/103200040/80da528a-2139-4d77-ab3d-c6d0682c9d1e)
+![SS MS2](https://github.com/THE-ARTI5T/RHYTHMO/assets/103200040/4b35b502-2a9b-489e-b153-a3da54f5e9cc)
