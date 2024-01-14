@@ -63,7 +63,7 @@ body {
 .footer {
     display: flex;
     font-size: 10px;
-    color: grey;
+    color: rgb(101, 202, 222);
     gap: 13px;
     position: absolute;
     bottom: 0;
@@ -72,7 +72,7 @@ body {
 }
 
 .footer a {
-    color: grey;
+    color: rgb(70, 136, 136);
 }
 
 .right {
@@ -83,7 +83,7 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
-    background-color: rgb(34 34 34);
+    background-color: #35155D;
 }
 
 .header>* {
@@ -111,7 +111,7 @@ body {
     width: 200px;
     padding: 10px;
     border-radius: 5px;
-    background-color: #252525;
+    background-color: #4477CE;
     position: relative;
     transition: all .9s;
 }
@@ -134,7 +134,7 @@ body {
 .play {
     width: 28px;
     height: 28px;
-    background-color: #1fdf64;
+    background-color: #8CABFF;
     border-radius: 50%;
     padding: 4px;
     display: flex;
@@ -152,7 +152,7 @@ body {
 }
 
 .signupbtn {
-    background-color: rgb(34 34 34);
+    background-color: #35155D;
     color: rgb(156, 148, 148);
     font-weight: bold;
     border: none;

@@ -59,7 +59,7 @@ async function getSongs(folder) {
     return songs
 }
 
-const playMusic = (track = "Select Your Song", pause = false) => {
+const playMusic = (track = "Choose your Playlist to play the song", pause = false) => {
     currentSong.src = `/${currfolder}/` + track
     if (!pause) {
         currentSong.play()
